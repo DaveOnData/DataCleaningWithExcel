@@ -1,5 +1,5 @@
 # DataCleaningWithExcel
-Public repository for files related to Dave Langer's "Data Cleaning With Excel" YouTube tutorial series.
+Public repository for files related to Dave Langer's "[Data Cleaning With Excel](https://www.youtube.com/playlist?list=PLTJTBoU5HOCQyfRcXjZXktq8ptsFY6c3-)" YouTube tutorial series.
 
 # Content
 
